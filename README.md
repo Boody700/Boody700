@@ -4,7 +4,7 @@
 
 ### Data Science & Machine Learning Engineering · Cairo, Egypt
 
-I’m a Business Information Systems graduate from Helwan University, with a **3.76/4.00 GPA** and training in data analysis, machine learning and AI. I work on analytics, computer vision and document retrieval, and build interfaces that make the results easy to inspect.
+My technical training centers on the **Professional Diploma in Data Science & AI through Digilians / MCIT**, covering machine learning, deep learning, computer vision, NLP and data engineering. I apply that training to projects in analytics, computer vision and document AI, with interactive interfaces and documented evaluation.
 
 [Browse my repositories](https://github.com/Boody700?tab=repositories)
 
@@ -34,8 +34,9 @@ Each repository includes screenshots, local setup instructions, an evaluation di
 
 ## Education and training
 
-- **Helwan University** — Bachelor of Business Information Systems, 2020–2024.
-- **Digilians / MCIT** — Professional Diploma in Data Science & AI, Dec 2025–Sep 2026.
+- **Professional Diploma in Data Science & AI — Digilians / MCIT**, Dec 2025–Sep 2026.
+  Technical training across machine learning, deep learning, computer vision, NLP, data analysis, data engineering, generative AI and agentic AI. First-term result: **A−**, ranked **17th of approximately 70 trainees**.
 - **AMIT Learning** — Data Analysis training, Mar–Aug 2025.
+- **Helwan University** — Bachelor of Business Information Systems, 2020–2024.
 
 I’m interested in junior data science and machine learning engineering opportunities. Project results are reported with their evaluation scope in the individual repositories.
