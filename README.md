@@ -2,7 +2,7 @@
 
 [![LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/abdalrahman10) [![Gmail](assets/gmail.svg)](mailto:abdalrahmanehab76@gmail.com)
 
-### Data Science & Machine Learning Engineering · Cairo, Egypt
+### AI Data Scientist · Cairo, Egypt
 
 My technical training centers on the **Professional Diploma in Data Science & AI through Digilians / MCIT**, covering machine learning, deep learning, computer vision, NLP and data engineering. I apply that training to projects in analytics, computer vision and document AI, with interactive interfaces and documented evaluation.
 
