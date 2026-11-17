@@ -1,10 +1,12 @@
 # Abdalrahman Ehab
 
+[![LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/abdalrahman10) [![Gmail](assets/gmail.svg)](mailto:abdalrahmanehab76@gmail.com)
+
 ### Data Science & Machine Learning Engineering · Cairo, Egypt
 
 I’m a Business Information Systems graduate from Helwan University, with a **3.76/4.00 GPA** and training in data analysis, machine learning and AI. I work on analytics, computer vision and document retrieval, and build interfaces that make the results easy to inspect.
 
-[LinkedIn](https://www.linkedin.com/in/abdalrahman10) · [Email](mailto:abdalrahmanehab76@gmail.com) · [Browse my repositories](https://github.com/Boody700?tab=repositories)
+[Browse my repositories](https://github.com/Boody700?tab=repositories)
 
 ## Selected projects
 
@@ -17,11 +19,10 @@ I’m a Business Information Systems graduate from Helwan University, with a **3
 | [InkLab](https://github.com/Boody700/inklab-vision) | Three image classifiers, a pixel editor, all test mistakes and reproducible robustness experiments. |
 | [Frame](https://github.com/Boody700/frame-recommender) | Six recommender rankers, actual score explanations and full-catalog offline evaluation. |
 
-Each repository includes screenshots, local setup instructions, an evaluation discussion, source attribution and a case study. The six independent studies were built with AI assistance.
+Each repository includes screenshots, local setup instructions, an evaluation discussion, source attribution and a case study.
 
 ## Other work
 
-- [Sprints AI Career & Assessment Orchestrator](https://github.com/Boody700/sprints-ai-orchestrator) — curriculum retrieval, isolated Python assessment and human review in a LangGraph workflow.
 - [Smart Surveillance](https://github.com/Boody700/smart-surveillance-system) — person tracking, zone-based rules and event storage. The repository currently contains the tracking and rules components.
 
 ## Toolkit
