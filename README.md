@@ -1,6 +1,6 @@
 # Abdalrahman Ehab
 
-[![LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/abdalrahman10) [![Gmail](assets/gmail.svg)](mailto:abdalrahmanehab76@gmail.com)
+[![LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/abdalrahman10) [![Gmail](assets/gmail.svg)](mailto:abdalrahmanehab76@gmail.com) [![Portfolio](assets/portfolio.svg)](https://abdalrahman-ehab-portfolio.vercel.app)
 
 ### AI Data Scientist · Cairo, Egypt
 
